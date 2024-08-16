@@ -16,3 +16,20 @@ This project is a simple Streamlit application designed to run a predefined Lang
    pip install -r requirements.txt
    ```
 
+### Run the Streamlit Application:
+
+```
+streamlit run langflow.py
+```
+
+### To import the Json File to Langflow Environment, Steps to be Followed.
+
+# Install Langflow Locally
+```
+python -m pip install langflow -U
+```
+
+# Run Langflow
+```bash
+langflow run
+```
